@@ -1,0 +1,30 @@
+.button {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 100%;
+    box-sizing: border-box;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.primary {
+    background: green;
+    color: white;
+}
+
+.ghost {
+    color: black;
+    border: 1px #ebebeb solid;
+}
+
+.arrow {
+    color: red;
+    margin-left: 10px;
+}
+
+.down {
+    transform: rotate(90deg);
+}

@@ -1,0 +1,103 @@
+{
+  "menu": [
+    {
+      "id": {
+        "secondaryCategory": "Аналитика"
+      },
+      "pages": [
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5t767dsfgwe45",
+          "category": "fin atalytic"
+        },
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5565tdsfgwe45",
+          "category": "fin atalytic"
+        },
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5tdtruisfgwe45",
+          "category": "fin atalytic"
+        },
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5tddsfg4ersfgwe45",
+          "category": "fin atalytic"
+        }
+      ]
+    },
+    {
+      "id": {
+        "secondaryCategory": "бизнес"
+      },
+      "pages": [
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5tdsfsdfgdsfggwe45",
+          "category": "fin atalytic"
+        },
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5tdsyhfgwe45",
+          "category": "fin atalytic"
+        },
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34t5tdsfbddgwe45",
+          "category": "fin atalytic"
+        },
+        {
+          "alias": "fin analytic",
+          "title": "courses",
+          "_id": "2q34tssaa5tdsfgwe45",
+          "category": "fin atalytic"
+        }
+      ]
+    },
+    {
+      "id": "G1950YZ"
+    },
+    {
+      "id": "jJWdH6A"
+    },
+    {
+      "id": "s4XGzo4"
+    },
+    {
+      "id": "JMQDtq_"
+    },
+    {
+      "id": "jJ6n3gW"
+    },
+    {
+      "id": "F4Fgylz"
+    },
+    {
+      "id": "TkW7U0m"
+    },
+    {
+      "firstCategory": 0,
+      "id": "KsecPxX"
+    },
+    {
+      "firstCategory": 0,
+      "id": "bLq59U-"
+    },
+    {
+      "firstCategory": 0,
+      "id": "napN_SX"
+    },
+    {
+      "firstCategory": 0,
+      "id": "iWfWkdb"
+    }
+  ]
+}

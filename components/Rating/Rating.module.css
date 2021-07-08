@@ -1,0 +1,14 @@
+.star {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    padding-right: 5px;
+    border: 1px green solid;
+}
+.filled {
+   background: red;
+}
+
+.editable {
+    cursor: pointer;
+}

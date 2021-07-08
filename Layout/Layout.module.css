@@ -1,0 +1,4 @@
+.grid {
+    display: grid;
+    : 1fr 1fr 1fr;
+}
